@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<?php
+<?php  date_default_timezone_set('PRC');
 
 	//echo $_POST["title"]; 
 	//echo $_POST["url"]; 

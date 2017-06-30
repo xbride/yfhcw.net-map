@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<?php 
+<?php date_default_timezone_set('PRC');
 
 if($_GET["name"]=="")
 	die("no input!");
