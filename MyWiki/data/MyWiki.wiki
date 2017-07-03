@@ -1,0 +1,7 @@
+﻿++ My Wiki
+
+test
+debug
+
+
+	* WikiSettings

@@ -47,7 +47,7 @@ function gotosite(name){
 
 <form name="headerForm" action="site.php" method="post">
 	<div >
-		<input type="text" name="site"  value="输入要访问的地址" />
+		<input name="site" type="text" value="输入要访问(qiandao)的地址" size="50" />
 		<a onClick="cheak()" href="#">提交</a>
 	</div>
 </form>
