@@ -1,2 +1,0 @@
-﻿++ Icon folder open
-[icon: folder open]

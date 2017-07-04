@@ -1,2 +1,0 @@
-++ Icon contact
-[icon: contact]

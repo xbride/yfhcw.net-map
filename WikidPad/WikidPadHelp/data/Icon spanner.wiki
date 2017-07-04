@@ -1,2 +1,0 @@
-﻿++ Icon spanner
-[icon: spanner]

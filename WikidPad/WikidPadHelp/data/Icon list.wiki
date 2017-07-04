@@ -1,2 +1,0 @@
-﻿++ Icon list
-[icon: list]

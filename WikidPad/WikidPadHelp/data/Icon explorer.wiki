@@ -1,2 +1,0 @@
-﻿++ Icon explorer
-[icon:explorer]

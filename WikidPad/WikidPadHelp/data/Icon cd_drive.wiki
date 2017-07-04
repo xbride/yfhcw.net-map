@@ -1,2 +1,0 @@
-++ Icon cd_drive
-[icon: cd_drive]

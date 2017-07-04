@@ -1,2 +1,0 @@
-﻿++ Icon left arrow
-[icon: left arrow]

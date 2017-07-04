@@ -1,2 +1,0 @@
-﻿++ Color BROWN
-[color: BROWN]

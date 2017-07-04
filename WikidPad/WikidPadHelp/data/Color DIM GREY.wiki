@@ -1,2 +1,0 @@
-﻿++ Color DIM GREY
-[color: DIM GREY]

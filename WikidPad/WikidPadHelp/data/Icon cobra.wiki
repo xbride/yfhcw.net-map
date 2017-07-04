@@ -1,2 +1,0 @@
-++ Icon cobra
-[icon: cobra]

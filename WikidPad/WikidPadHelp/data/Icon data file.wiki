@@ -1,2 +1,0 @@
-﻿++ Icon data file
-[icon: data file]

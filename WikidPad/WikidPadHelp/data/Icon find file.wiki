@@ -1,2 +1,0 @@
-﻿++ Icon find file
-[icon: find file]

@@ -1,2 +1,0 @@
-++ Icon cd_audio
-[icon:cd_audio ]

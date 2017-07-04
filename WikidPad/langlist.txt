@@ -1,5 +1,0 @@
-﻿zh_CN	Chinese
-C	English
-hu_HU	Hungarian
-ru_RU	Русский
-sv	Swedish

@@ -1,2 +1,0 @@
-++ Icon card
-[icon: card]

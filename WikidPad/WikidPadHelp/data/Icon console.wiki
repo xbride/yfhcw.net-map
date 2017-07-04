@@ -1,2 +1,0 @@
-++ Icon console
-[icon: console]

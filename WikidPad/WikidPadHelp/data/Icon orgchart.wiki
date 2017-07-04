@@ -1,2 +1,0 @@
-﻿++ Icon orgchart
-[icon: orgchart]
