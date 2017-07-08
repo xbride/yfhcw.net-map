@@ -14,7 +14,7 @@ $s=$_GET["name"]; echo $s;
 $addr=bin2hex($s);
 //echo  $addr; 
 
-$filename=$addr . ".txt";
+$filename = "items/".$addr . ".txt";
 //echo  $filename;
 
 /*

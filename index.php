@@ -62,7 +62,7 @@ function gotosite(name){
 				
 				
 				
-				$content = file_get_contents("txt.reg");
+				$content = file_get_contents("items/txt.reg");
 				$array = explode("\r\n", $content);
 				
 				$dir = $_SERVER['DOCUMENT_ROOT']."/map";  
@@ -107,9 +107,6 @@ function gotosite(name){
 						echo '<br> ';			
 					}
 				}
-				
-				
-
 ?> 
 			
 		<!--begin of autoreload 2of2 -->

@@ -12,7 +12,7 @@
 	
 	$s=$_POST["title"];
 	$addr=bin2hex($s);
-	$filename=$addr . ".txt";
+	$filename="items/".$addr . ".txt";
 
 	$myfile = fopen($filename, "w") or die("Unable to open file!");
 	fwrite($myfile, $_POST["title"]."\r\n");
