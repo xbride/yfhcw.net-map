@@ -1,4 +1,12 @@
 <html>
+
+<!-- 自适应代码-->	
+<meta name="viewport" content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="format-detection" content="telephone=no">
+<!-- 自适应代码-->	
+
 <head>
 		<!--begin of autoreload 1of2 -->
 		<script src="ifvisible.js"></script>
@@ -47,7 +55,7 @@ function gotosite(name){
 
 <form name="headerForm" action="site.php" method="post">
 	<div >
-		<input name="site" type="text" value="输入要访问(qiandao)的地址" size="50" />
+		<input name="site" type="text" value="输入要访问(qiandao)的地址" size="40" />
 		<a onClick="cheak()" href="#">提交</a>
 	</div>
 </form>
