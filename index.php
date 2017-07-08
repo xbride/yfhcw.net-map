@@ -65,7 +65,7 @@ function gotosite(name){
 				$content = file_get_contents("items/txt.reg");
 				$array = explode("\r\n", $content);
 				
-				$dir = $_SERVER['DOCUMENT_ROOT']."/map";  
+				$dir = $_SERVER['DOCUMENT_ROOT']."/map/items";  
 				chdir ($dir);  
 				$pages = glob("*.{txt}", GLOB_BRACE);  
 				
@@ -98,7 +98,7 @@ function gotosite(name){
 						echo $fname;
 						echo '</a> ';
 						
-						echo '<a href="'; 
+						echo '<a href="items/'; 
 						echo $pages[$x];
 						echo '">';
 						echo getinfo($pages[$x],$MEMO);
